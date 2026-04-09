@@ -131,7 +131,6 @@ You’ll see a menu:
 
 ---
 
-## 🧠 Designed By
+## 🧠 Designed & Developed By:
 
-**Tan Wesley**  
-Coursework Submission – *PDWD-PFS-0325-Summative Assessment*  
+**Tan Wesley**
